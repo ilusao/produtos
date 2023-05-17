@@ -1,0 +1,10 @@
+{
+  "produto": [
+    {"id" : 1,  "name" : "colchão", "reference" : "domestico", "code" : "13", "price" : "300 R$", "description" : "colchao de solteiro"},
+    {"id" : 2,  "name" : "aspirador", "reference" : "limpeza", "code" : "55", "price" : "50 R$", "description" : "aspirador pra carros"},
+    {"id" : 3,  "name" : "celular", "reference" : "no pobre", "code" : "167", "price" : "15.000 R$", "description" : "celular de rico"},
+    {"id" : 4,  "name" : "barbeador", "reference" : "eletronico", "code" : "77", "price" : "199 R$", "description" : "barbedor para peles sensiveis"},
+    {"id" : 5,  "name" : "panela", "reference" : "cozinha", "code" : "1", "price" : "45 R$", "description" : "panela de pressão para carne seca"},
+    {"id" : 6,  "name" : "perfume", "reference" : "cheiro", "code" : "9", "price" : "400 R$", "description" : "perfume para homem, el macho"}
+  ]
+}
